@@ -17,8 +17,8 @@
 		"offer_date": "20 Aug 2022 - 20 Aug 2023",
 		"day_left": 2,
 		"show_day_left": true,
-		"price_strike": 0,
-		"price": 0,
+		"price_strike": "IDR 110.000,00",
+		"price": "IDR 100.000,00",
 		"status": "claimed",
 		"ui_sections" : [
 			{
