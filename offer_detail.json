@@ -1,0 +1,44 @@
+{
+  "status": "SUCCESS",
+  "entity": "getPerkDetail",
+  "state": "getPerkDetailSuccess",
+  "message": "Get Perk Detail Success",
+  "meta": {
+    "transaction_id": "b748f33a-e253-4f0a-ab0d-4e0c78a66bf3"
+  },
+  "data": {
+		"id": "f395edfc-c8cf-413e-ae5a-277f74574e97",
+    "application_id": "c28df948-0af4-4254-8c1b-4cba8afe09b5",
+    "offer_banner": "https://techcrunch.com/wp-content/uploads/2017/03/tia-2015.jpg",
+    "title": "Voucher Diskon Rp25,000 Mc Donalds",
+    "offer_url": "https://oauth.privy.id/api/v2/client?client_id=2xUnPMRd6PAjk1Ajdx_4EQ_ja7LTP3xrJRBDJ6oMMwg",
+    "quota": 1000,
+		"show_quota": false,
+		"offer_date": "20 Aug 2022 - 20 Aug 2023",
+		"day_left": 2,
+		"show_day_left": true,
+		"price_strike": 0,
+		"price": 0,
+		"status": "claimed",
+		"ui_sections" : [
+			{
+        "content": "Isi deskripsinya",
+        "label": "Deskripsi"
+      },
+			{
+        "content": "Isi how to use",
+        "label": "How To Use"
+      },
+			{
+        "content": "Isi tnc",
+        "label": "Terms and condition"
+      }
+		],
+		"voucher_code": "PRV007",
+		"cta": "scan_qr",
+		"cta_label": "Claim Voucher",
+    "created_at": "2022-07-15T15:18:37.146676+07:00",
+    "updated_at": "2022-07-15T15:18:37.146676+07:00",
+    "deleted_at": null
+  }
+}
