@@ -4,9 +4,6 @@
   "state": "getPerkDetailSuccess",
   "message": "Get Perk Detail Success",
   "meta": {
-	  "page": 1,
-	"per_page": 10,
-	"total": 1,
     "transaction_id": "b748f33a-e253-4f0a-ab0d-4e0c78a66bf3"
   },
   "data": {
@@ -20,9 +17,9 @@
 		"offer_date": "20 Aug 2022 - 20 Aug 2023",
 		"day_left": 2,
 		"show_day_left": true,
-		"price_strike": "IDR 110.000,00",
-		"price": "IDR 120.000,00",
-		"status": "available",
+		"price_strike": 0,
+		"price": 0,
+		"status": "claimed",
 		"ui_sections" : [
 			{
         "content": "Isi deskripsinya",
